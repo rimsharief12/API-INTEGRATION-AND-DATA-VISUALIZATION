@@ -16,3 +16,4 @@ This project demonstrates data analysis and visualization using Python. A sample
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/e0bed31b-0cf0-46ce-ba51-fb5f2ee00a0b)
